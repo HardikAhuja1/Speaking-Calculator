@@ -12,3 +12,5 @@ A Python-based calculator that **speaks** results using the `pyttsx3` library an
 - **pyttsx3** for voice output
 
 
+Hi! I’m Hardik Ahuja, currently learning AI, ML, and Python projects to strengthen my development and problem-solving skills.
+This project is a small part of my learning journey toward becoming an AI Engineer.
