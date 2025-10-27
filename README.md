@@ -14,3 +14,6 @@ A Python-based calculator that **speaks** results using the `pyttsx3` library an
 
 Hi! I’m Hardik Ahuja, currently learning AI, ML, and Python projects to strengthen my development and problem-solving skills.
 This project is a small part of my learning journey toward becoming an AI Engineer.
+
+I built this Speaking Calculator using Tkinter and pyttsx3.
+I faced challenges syncing voice and display, but solved it by threading speech and UI separately.
